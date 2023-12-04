@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Nabilsimplon
-- 👀 I’m interested in  la cybersécurité
-- 🌱 I’m currently learning  à  utiliser  GIT
-- 💞️ I’m looking to  documenter  un travail en utilisant Markdown
+- 👋 Hi, I’m @Nabil
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning  to use GIT
+- 💞️ I’m looking to work with Markdown
 
 
-- 📫 How to reach me  il faut m'envoyer un Mail 
+- 📫 How to reach me, send me Mail 
 <!---
-Nabilsimplon/Nabilsimplon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nabil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
